@@ -1,0 +1,3 @@
+/Users/Parik/Desktop/FractaleDeJulia-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Parik/Desktop/FractaleDeJulia-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Parik/Desktop/FractaleDeJulia-master/cmake-build-debug/CMakeFiles/FractalesJulia.dir
